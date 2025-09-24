@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Data Mining"
+    ],
+    [
+      "Business",
+      "Management"
+    ],
+    [
+      "Business",
+      "Information Technology"
+    ]
+  ],
+  "legacy_uid": "9c50c287-dacb-abc4-dcca-a4c8064f52a5",
+  "instructors": {
+    "content": [
+      "681bd58e-384d-1e17-34ce-1ae658cf5b88"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4a7476b8-5098-f983-3de1-99026f9cc35c",
+    "website": "15-062-data-mining-spring-2003"
+  },
+  "course_title": "Data Mining",
+  "course_description": "Data that has relevance for managerial decisions is accumulating at an incredible rate due to a host of technological advances. Electronic data capture has become inexpensive and ubiquitous as a by-product of innovations such as the internet, e-commerce, electronic banking, point-of-sale devices, bar-code readers, and intelligent machines. Such data is often stored in data warehouses and data marts specifically intended for management decision support. Data mining is a rapidly growing field that is concerned with developing techniques to assist managers to make intelligent use of these repositories. A number of successful applications have been reported in areas such as credit rating, fraud detection, database marketing, customer relationship management, and stock market investments. The field of data mining has evolved from the disciplines of statistics and artificial intelligence.\n\nThis course will examine methods that have emerged from both fields and proven to be of value in recognizing patterns and making predictions from an applications perspective. We will survey applications and provide an opportunity for hands-on experimentation with algorithms for data mining using easy-to-use software and cases.",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.062",
+  "course_image_thumbnail": {
+    "content": "cf8a4d48-2526-52aa-ee7b-b522dd4502a5",
+    "website": "15-062-data-mining-spring-2003"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "site_uid": "a6455d5b-1167-4523-937a-822f7fd5541f",
+  "site_short_id": "15.062-spring-2003",
+  "site_url_path": "courses/15-062-data-mining-spring-2003",
+  "title": "Course Metadata"
+}
