@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
@@ -10,7 +12,7 @@ uid: be2bd340-b911-8e30-454e-9da54b6d3148
 XLMiner Software (Excel Add-in)
 -------------------------------
 
-{{% resource_link "73935966-6bbd-4a27-9eb7-fd900dc85fa5" "Updated Software Version" %}}
+[Updated Software Version](http://www.solver.com/xlminer-data-mining)
 
 XLMiner Tutorial by Romy Shioda ({{% resource_link 8ad86091-9c5e-c4dc-4960-ee8687ebd471 "PDF" %}})
 

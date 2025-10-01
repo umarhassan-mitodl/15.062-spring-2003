@@ -4,6 +4,8 @@ description: ''
 file: /courses/15-062-data-mining-spring-2003/b1581ef84e504d81d247274bbf0e2835_XLMiner_MIT_01Apr.exe
 file_size: 6284012
 file_type: application/x-ms-dos-executable
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,6 +4,8 @@ description: Normals Problem 4
 file: /courses/15-062-data-mining-spring-2003/0fb5e4f716a9f382a09f48b55a7a8bf7_romyBiVarNormProb4.xls
 file_size: 2239488
 file_type: application/msword
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

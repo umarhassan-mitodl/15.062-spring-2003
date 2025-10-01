@@ -29,7 +29,7 @@ Lecture notes and homework assignments will be available at the class website in
 
 The following books are available as supplementary materials. Occasionally, readings from these books will be suggested to augment the lecture notes.
 
-![Buy at MIT Press](/images/mp_logo.gif) Hand, Mannila, and Smyth. {{% resource_link "0a39b4ab-e00a-4d2b-8694-885da0b3bb88" "_Principles of Data Mining_" %}}. Cambridge, MA: MIT Press, 2001. ISBN: 026208290X.
+![Buy at MIT Press](/images/mp_logo.gif) Hand, Mannila, and Smyth. [_Principles of Data Mining_](https://mitpress.mit.edu/books/principles-data-mining). Cambridge, MA: MIT Press, 2001. ISBN: 026208290X.
 
 Berry and Linoff. _Mastering Data Mining._ New York, NY: Wiley, 2000. ISBN: 0471331236.
 
@@ -37,9 +37,9 @@ Delmater and Hancock. _Data Mining Explained._ New York, NY: Digital Press, 2001
 
 ## Software
 
-We will be using XLMiner, an Excel add-in, for homework assignments. To download a free version go to {{% resource_link "40720069-06b8-43cd-a9ac-b2383b2bfad1" "http://www.xlminer.com" %}}.
+We will be using XLMiner, an Excel add-in, for homework assignments. To download a free version go to [http://www.xlminer.com](http://solver.com/introduction-xlminer).
 
-The free version is limited. For your home works and case assignments, you will need a more powerful version that will be provided by Resampling Stats at {{% resource_link "73935966-6bbd-4a27-9eb7-fd900dc85fa5" "http://www.solver.com/xlminer-data-mining" %}}: "Updated Software Version"
+The free version is limited. For your home works and case assignments, you will need a more powerful version that will be provided by Resampling Stats at [http://www.solver.com/xlminer-data-mining](http://www.solver.com/xlminer-data-mining): "Updated Software Version"
 
 SAS Enterprise Miner will be available for projects that require handling large amounts of data. Instructions on using the software will be provided in recitations.
 

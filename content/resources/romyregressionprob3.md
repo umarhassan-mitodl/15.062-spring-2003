@@ -4,6 +4,8 @@ description: Regression Problem 3
 file: /courses/15-062-data-mining-spring-2003/4faf292a364ac98857a04140a7aac0b4_romyRegressionProb3.xls
 file_size: 194560
 file_type: application/msword
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

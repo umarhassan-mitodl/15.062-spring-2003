@@ -4,6 +4,8 @@ description: 'Lecture #7'
 file: /courses/15-062-data-mining-spring-2003/a72fb95d8a8825d139c174bf2072d8df_lecture7.pdf
 file_size: 66737
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
