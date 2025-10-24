@@ -4,8 +4,6 @@ description: German Credit Case Data
 file: /courses/15-062-data-mining-spring-2003/3d0fbded046c53a5fb72d3bcd2064ac9_GermanCredit.xls
 file_size: 247296
 file_type: application/msword
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
